@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ruby-33@sha256:20a89c93faa5a694810d64a7423620d79cfc8fab8e6829337e1b4f0048a024ef
+FROM registry.access.redhat.com/ubi9/ruby-33@sha256:1269cf9fc8c22d2b8192ae1b7d46824cbe6e64839090f11ae04a94a2826eab93
 
 WORKDIR /app
 
